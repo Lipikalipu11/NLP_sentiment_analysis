@@ -16,10 +16,4 @@ transformers==4.34.0 # Hugging Face for pre-trained models
 matplotlib==3.8.1
 seaborn==0.13.0
 
-# Miscellaneous
-Flask==2.3.3  # If building a web app for deployment
-gunicorn==21.3.1  # If deploying with Flask
-jupyter==1.0.0  # For notebook-based development
 
-# Additional libraries
-emoji==2.8.0  # For handling emojis in text
